@@ -1,0 +1,64 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x6810)
+    Vendor:   ATI
+    VRAM:     2030 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PongMiniLD65\PongMiniLD65_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PongMiniLD65\PongMiniLD65_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PongMiniLD65\PongMiniLD65_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PongMiniLD65\PongMiniLD65_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PongMiniLD65\PongMiniLD65_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PongMiniLD65\PongMiniLD65_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PongMiniLD65\PongMiniLD65_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PongMiniLD65\PongMiniLD65_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PongMiniLD65\PongMiniLD65_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\PongMiniLD65\PongMiniLD65_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.188 seconds
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PongMiniLD65\PongMiniLD65_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\PongMiniLD65\PongMiniLD65_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.905422 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.555866 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 0.186266 ms (FindLiveObjects: 0.035688 ms CreateObjectMapping: 0.012711 ms MarkObjects: 0.111466 ms  DeleteObjects: 0.019555 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.481066 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 0.178444 ms (FindLiveObjects: 0.028844 ms CreateObjectMapping: 0.013688 ms MarkObjects: 0.121733 ms  DeleteObjects: 0.006355 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.510888 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 0.229777 ms (FindLiveObjects: 0.028844 ms CreateObjectMapping: 0.012222 ms MarkObjects: 0.175511 ms  DeleteObjects: 0.006355 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.516755 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 0.203866 ms (FindLiveObjects: 0.030800 ms CreateObjectMapping: 0.013200 ms MarkObjects: 0.147644 ms  DeleteObjects: 0.006355 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.455155 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 0.237111 ms (FindLiveObjects: 0.029822 ms CreateObjectMapping: 0.013688 ms MarkObjects: 0.180400 ms  DeleteObjects: 0.006355 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.496711 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 0.242977 ms (FindLiveObjects: 0.031288 ms CreateObjectMapping: 0.013200 ms MarkObjects: 0.185288 ms  DeleteObjects: 0.005866 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 6c578 -> priority: 1 
